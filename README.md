@@ -14,7 +14,7 @@ The application has a graphical user interface (GUI) built with Tkinter and uses
 
 * A "Predict" button to capture and evaluate gestures.  
 
-**AI Bot**: Generates a random choice (rock, paper, scissors) to play against the user.  
+**Bot**: Generates a random choice (rock, paper, scissors) to play against the user.  
 
 **Score Tracker**: Tracks the player's score versus the bot.  
 
