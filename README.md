@@ -4,7 +4,7 @@ The application has a graphical user interface (GUI) built with Tkinter and uses
 ***
 ## Features
 
-Real-Time Prediction: Captures the player's hand gesture via webcam and predicts whether it is Rock, Paper, or Scissors.
+**Real-Time Prediction**: Captures the player's hand gesture via webcam and predicts whether it is Rock, Paper, or Scissors.
 
 **GUI Interface**: A clean  interface with:
 
