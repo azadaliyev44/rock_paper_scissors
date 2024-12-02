@@ -1,6 +1,6 @@
 # I can play Rock Paper Scissors  
 This is a Rock Paper Scissors game application that uses a webcam to predict the player's move using a trained EfficientNet_B0 model.  
-The application has a graphical user interface (GUI) built with Tkinter and uses PyTorch for model inference. For the first time use model must be configured to user's camera. So, at first run it will require to capture some images for each gesture. Responses will guide the user to show each gesture. For best experience clear and solid background is preferable while capturing.       
+The application has a graphical user interface (GUI) built with Tkinter and uses PyTorch for model inference. For the first time use model must be configured to user's camera. So, at first run it will require to capture some images for each gesture. Responses will guide the user to show each gesture. For the best experience clear and solid background is preferable while capturing.       
 ***
 ## Features
 
