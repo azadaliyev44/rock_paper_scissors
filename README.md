@@ -6,7 +6,7 @@ The application has a graphical user interface (GUI) built with Tkinter and uses
 
 Real-Time Prediction: Captures the player's hand gesture via webcam and predicts whether it is Rock, Paper, or Scissors.
 
-*GUI Interface*: A clean  interface with:
+**GUI Interface**: A clean  interface with:
 
 * Live camera feed.  
 
@@ -14,11 +14,11 @@ Real-Time Prediction: Captures the player's hand gesture via webcam and predicts
 
 * A "Predict" button to capture and evaluate gestures.  
 
-*AI Bot*: Generates a random choice (rock, paper, scissors) to play against the user.  
+**AI Bot**: Generates a random choice (rock, paper, scissors) to play against the user.  
 
-*Score Tracker*: Tracks the player's score versus the bot.  
+*S*core Tracker**: Tracks the player's score versus the bot.  
 
-*Model Integration*: EfficientNet_B0 for hand gesture classification.  
+**Model Integration**: EfficientNet_B0 for hand gesture classification.  
 
 ## Requirements  
 Prerequisites:  
@@ -30,23 +30,23 @@ Requirements can be installed by
 
 ## How It Works
 
-*Camera Integration:*
+**Camera Integration:**
 
 * Captures real-time frames from the webcam using OpenCV.
 
-*Model Prediction:*
+**Model Prediction:**
 
 * Uses a pretrained EfficientNet_B0 model to classify the captured frame as Rock, Paper, or Scissors.
 
-*Bot:*
+**Bot:**
 
 * Randomly generates its move.
 
-*Score Evaluation:*
+**Score Evaluation:**
 
 * Compares the player's move with the bot's move and updates the score accordingly.
 
-*GUI Updates:*
+**GUI Updates:**
 
 * Displays real-time feedback and game updates.
 
