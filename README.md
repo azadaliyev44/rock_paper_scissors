@@ -16,7 +16,7 @@ The application has a graphical user interface (GUI) built with Tkinter and uses
 
 **AI Bot**: Generates a random choice (rock, paper, scissors) to play against the user.  
 
-*S*core Tracker**: Tracks the player's score versus the bot.  
+**Score Tracker**: Tracks the player's score versus the bot.  
 
 **Model Integration**: EfficientNet_B0 for hand gesture classification.  
 
